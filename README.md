@@ -9,4 +9,9 @@ These are resources that I use on a regular or semi-regular basis. They don't re
 * [Cubic Bezier](http://cubic-bezier.com/)
 
 ##Design and Development Standards
+
 * [Snugug North Repo](https://github.com/Snugug/north)
+
+##Source Control
+
+* [Pro Git](http://git-scm.com/book)
