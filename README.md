@@ -8,6 +8,7 @@ These are resources that I use on a regular or semi-regular basis.
 * [Matthew Lein Ceaser](http://matthewlein.com/ceaser/)
 
 ##Blogs
+* [Brad Frost](http://bradfrostweb.com/blog/)
 * [Codrops](http://tympanus.net/codrops/)
 * [Nicolas Gallagher](http://nicolasgallagher.com/)
 * [SitePoint](http://www.sitepoint.com)
