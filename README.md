@@ -7,6 +7,11 @@ These are resources that I use on a regular or semi-regular basis.
 * [Matthew Lein Ceaser](http://matthewlein.com/ceaser/)
 * [Cubic Bezier](http://cubic-bezier.com/)
 
+##Blogs
+* [Codrops](http://tympanus.net/codrops/)
+* [Smashing Magazine](http://www.smashingmagazine.com)
+* [SitePoint](http://www.sitepoint.com)
+
 ##Design and Development Standards
 * [Snugug North Repo](https://github.com/Snugug/north)
 
@@ -16,8 +21,7 @@ These are resources that I use on a regular or semi-regular basis.
 ##Tutorial Sites
 
 ###Free
-* [Smashing Magazine](http://www.smashingmagazine.com)
-* [SitePoint](http://www.sitepoint.com)
+* [Codecademy](http://www.codecademy.com/)
 
 ###Paid
 * [Team Treehouse](http://www.teamtreehouse.com)
