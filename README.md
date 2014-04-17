@@ -14,9 +14,15 @@ These are resources that I use on a regular or semi-regular basis.
 * [SitePoint](http://www.sitepoint.com)
 * [Smashing Magazine](http://www.smashingmagazine.com)
 
+##Browser Compatibility
+* [Can I Use](http://caniuse.com/)
+
 ##Design and Development Standards
 * [BEM](http://bem.github.io/bem-method/html/all.en.html)
 * [Snugug North Repo](https://github.com/Snugug/north)
+
+##Ruby on Rails
+* [Layouts](http://guides.rubyonrails.org/layouts_and_rendering.html)
 
 ##Source Control
 * [Pro Git](http://git-scm.com/book)
