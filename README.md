@@ -27,6 +27,10 @@ These are resources that I use on a regular or semi-regular basis.
 ##Browser Compatibility
 * [Can I Use](http://caniuse.com/)
 
+##Community
+* [Reddit Design](http://www.reddit.com/r/Design/)
+* [Reddit Web Design](http://www.reddit.com/r/web_design)
+
 ##Photoshop
 * [iPhone GUI](http://www.teehanlax.com/tools/iphone/)
 * [iPhone Mockuuups](http://www.mockuuups.com/)
