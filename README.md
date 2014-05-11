@@ -45,3 +45,4 @@ These are resources that I use on a regular or semi-regular basis.
 
 ###Paid
 * [Team Treehouse](http://www.teamtreehouse.com)
+* [Pluralsight](http://www.pluralsight.com/)
