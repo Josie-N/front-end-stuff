@@ -100,6 +100,8 @@ These are resources that I use on a regular or semi-regular basis.
 * [Codrops](http://tympanus.net/codrops/)
 * [Learn Code the Hard Way](http://learncodethehardway.org/)
   * There are free and paid versions of these courses. Very good stuff.
+* [Udacity](https://www.udacity.com/courses#!/web-development)
+  * There are free and paid versions of these courses, as well. Also very good stuff!
 
 ###Paid
 * [Code School](http://www.codeschool.com)
