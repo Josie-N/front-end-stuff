@@ -3,12 +3,14 @@ Links to Front End Resources
 
 These are resources that I use on a regular or semi-regular basis.
 
-##Architecture
+##Architecture & Best Practices
 * [BEM](http://bem.github.io/bem-method/html/all.en.html)
 * [DoCSSa](http://docssa.info/)
-* [Snugug North Repo](https://github.com/Snugug/north)
+* [Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
+* [Snugug North Github Repo](https://github.com/Snugug/north)
 
-##Blogs and Communities
+
+##Blogs & Communities
 
 ###Blogs
 * [Addy Osmani](http://addyosmani.com/blog)
@@ -33,11 +35,19 @@ These are resources that I use on a regular or semi-regular basis.
 * [Cubic Bezier](http://cubic-bezier.com/)
 * [Matthew Lein Ceaser](http://matthewlein.com/ceaser/)
 
-###Preprocessors
-* [Sass](http://sass-lang.com/)
+###Flexbox
+* [Microsoft Flexbox](http://msdn.microsoft.com/en-us/library/ie/hh673531(v=vs.85).aspx)
+* [Ultimate Flexbox Cheatsheet](http://www.sketchingwithcss.com/samplechapter/cheatsheet.html)
 
 ###Libraries & Frameworks
 * [Compass](http://compass-style.org/)
+* [Ionic](http://ionicframework.com/docs/components/)
+  * [Ionic Animated Icons](http://ionicons.com/animation.html)
+  * [Ionic Standard Icons](http://ionicons.com/)
+  
+
+###Preprocessors
+* [Sass](http://sass-lang.com/)
 
 
 ##Design
@@ -50,6 +60,7 @@ These are resources that I use on a regular or semi-regular basis.
 * [iOS Human Interface Guidelines](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html#//apple_ref/doc/uid/TP40006556)
 
 ###Tools
+* [Android px to dp Converter](http://labs.rampinteractive.co.uk/android_dp_px_calculator/)
 * [iOS Cheat Sheet](http://ivomynttinen.com/blog/the-ios-design-cheat-sheet-volume-2/)
 * [iPad GUI](http://www.teehanlax.com/tools/ipad/)
 * [iPhone GUI](http://www.teehanlax.com/tools/iphone/)
@@ -63,11 +74,17 @@ These are resources that I use on a regular or semi-regular basis.
 * [Jade](http://naltatis.github.io/jade-syntax-docs/)
 
 ##Javascript
-##Angular
-* [AngularJS For Absolute Beginners](http://medialoot.com/blog/angularjs-for-absolute-beginners/)
+
+###Angular
 * [A Better Way to Learn Angular](http://www.thinkster.io/angularjs/GtaQ0oMGIl/a-better-way-to-learn-angularjs)
+* [AngularJS For Absolute Beginners](http://medialoot.com/blog/angularjs-for-absolute-beginners/)
 * [AngularJS Hub](http://www.angularjshub.com/)
 * [AngularJS Recipes](http://fdietz.github.io/recipes-with-angular-js/)
+
+###Build Tools
+* [Gulp](http://gulpjs.com/)
+* [Bower](http://bower.io/)
+* [NPM](https://www.npmjs.org/)
 
 
 ##Ruby on Rails
@@ -80,7 +97,9 @@ These are resources that I use on a regular or semi-regular basis.
 
 ###Free
 * [Codecademy](http://www.codecademy.com/)
+* [Codrops](http://tympanus.net/codrops/)
 
 ###Paid
-* [Team Treehouse](http://www.teamtreehouse.com)
+* [Code School](http://www.codeschool.com)
 * [Pluralsight](http://www.pluralsight.com/)
+* [Team Treehouse](http://www.teamtreehouse.com)
