@@ -98,6 +98,8 @@ These are resources that I use on a regular or semi-regular basis.
 ###Free
 * [Codecademy](http://www.codecademy.com/)
 * [Codrops](http://tympanus.net/codrops/)
+* [Learn Code the Hard Way](http://learncodethehardway.org/)
+  * There are free and paid versions of these courses. Very good stuff.
 
 ###Paid
 * [Code School](http://www.codeschool.com)
