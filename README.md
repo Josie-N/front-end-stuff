@@ -65,6 +65,7 @@ These are resources that I use on a regular or semi-regular basis.
 * [iPad GUI](http://www.teehanlax.com/tools/ipad/)
 * [iPhone GUI](http://www.teehanlax.com/tools/iphone/)
 * [iPhone Mockuuups](http://www.mockuuups.com/)
+* [Lipsum Generator](http://www.lipsum.pro/)
 
 
 ##HTML 
