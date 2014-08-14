@@ -3,12 +3,26 @@ Links to Front End Resources
 
 These are resources that I use on a regular or semi-regular basis.
 
+
+##TOC
+* [Architecture & Best Practices](#architecture--best-practices)
+* [Blogs & Communities](#blogs--communities)
+* [Browser Compatibtility](#browser-compatibility)
+* [CSS](#css)
+* [Design](#design)
+* [HTML](#html)
+* [Javascript](#javascript)
+* [Ruby on Rails](#ruby-on-rails)
+* [Source Control](#source-control)
+* [Tutorial Sites](#tutorial-sites)
+
 ##Architecture & Best Practices
 * [BEM](http://bem.github.io/bem-method/html/all.en.html)
 * [DoCSSa](http://docssa.info/)
 * [Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
 * [Snugug North Github Repo](https://github.com/Snugug/north)
 
+[[⬆]](#toc)
 
 ##Blogs & Communities
 
@@ -26,8 +40,11 @@ These are resources that I use on a regular or semi-regular basis.
 * [Reddit Design](http://www.reddit.com/r/Design/)
 * [Reddit Web Design](http://www.reddit.com/r/web_design)
 
+
 ##Browser Compatibility
 * [Can I Use](http://caniuse.com/)
+
+[[⬆]](#toc)
 
 ##CSS
 
@@ -46,10 +63,10 @@ These are resources that I use on a regular or semi-regular basis.
   * [Ionic Animated Icons](http://ionicons.com/animation.html)
   * [Ionic Standard Icons](http://ionicons.com/)
   
-
 ###Preprocessors
 * [Sass](http://sass-lang.com/)
 
+[[⬆]](#toc)
 
 ##Design
 
@@ -68,12 +85,15 @@ These are resources that I use on a regular or semi-regular basis.
 * [iPhone Mockuuups](http://www.mockuuups.com/)
 * [Lipsum Generator](http://www.lipsum.pro/)
 
+[[⬆]](#toc)
 
 ##HTML 
 
 ###Preprocessors
 * [Haml](http://haml.info/)
 * [Jade](http://naltatis.github.io/jade-syntax-docs/)
+
+[[⬆]](#toc)
 
 ##Javascript
 
@@ -88,12 +108,17 @@ These are resources that I use on a regular or semi-regular basis.
 * [Bower](http://bower.io/)
 * [NPM](https://www.npmjs.org/)
 
+[[⬆]](#toc)
 
 ##Ruby on Rails
 * [Layouts](http://guides.rubyonrails.org/layouts_and_rendering.html)
 
+[[⬆]](#toc)
+
 ##Source Control
 * [Pro Git](http://git-scm.com/book)
+
+[[⬆]](#toc)
 
 ##Tutorial Sites
 
@@ -109,3 +134,5 @@ These are resources that I use on a regular or semi-regular basis.
 * [Code School](http://www.codeschool.com)
 * [Pluralsight](http://www.pluralsight.com/)
 * [Team Treehouse](http://www.teamtreehouse.com)
+
+[[⬆]](#toc)
