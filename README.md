@@ -18,6 +18,7 @@ These are resources that I use on a regular or semi-regular basis.
 * [Codrops](http://tympanus.net/codrops/)
 * [Nicolas Gallagher](http://nicolasgallagher.com/)
 * [Paul Irish](http://www.paulirish.com/)
+* [Planning for Aliens](http://www.planningforaliens.com/)
 * [SitePoint](http://www.sitepoint.com)
 * [Smashing Magazine](http://www.smashingmagazine.com)
 
