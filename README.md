@@ -102,6 +102,7 @@ These are resources that I use on a regular or semi-regular basis.
 * [AngularJS For Absolute Beginners](http://medialoot.com/blog/angularjs-for-absolute-beginners/)
 * [AngularJS Hub](http://www.angularjshub.com/)
 * [AngularJS Recipes](http://fdietz.github.io/recipes-with-angular-js/)
+* [Shaping Up With Angular](https://www.codeschool.com/courses/shaping-up-with-angular-js)
 
 ###Build Tools
 * [Gulp](http://gulpjs.com/)
