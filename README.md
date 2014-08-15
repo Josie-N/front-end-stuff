@@ -22,7 +22,7 @@ These are resources that I use on a regular or semi-regular basis.
 * [Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
 * [Snugug North Github Repo](https://github.com/Snugug/north)
 
-[[⬆]](#toc)
+[[ ⬆ Top ]](#toc)
 
 ##Blogs & Communities
 
@@ -44,7 +44,7 @@ These are resources that I use on a regular or semi-regular basis.
 ##Browser Compatibility
 * [Can I Use](http://caniuse.com/)
 
-[[⬆]](#toc)
+[[ ⬆ Top ]](#toc)
 
 ##CSS
 
@@ -66,7 +66,7 @@ These are resources that I use on a regular or semi-regular basis.
 ###Preprocessors
 * [Sass](http://sass-lang.com/)
 
-[[⬆]](#toc)
+[[ ⬆ Top ]](#toc)
 
 ##Design
 
@@ -85,7 +85,7 @@ These are resources that I use on a regular or semi-regular basis.
 * [iPhone Mockuuups](http://www.mockuuups.com/)
 * [Lipsum Generator](http://www.lipsum.pro/)
 
-[[⬆]](#toc)
+[[ ⬆ Top ]](#toc)
 
 ##HTML 
 
@@ -93,7 +93,7 @@ These are resources that I use on a regular or semi-regular basis.
 * [Haml](http://haml.info/)
 * [Jade](http://naltatis.github.io/jade-syntax-docs/)
 
-[[⬆]](#toc)
+[[ ⬆ Top ]](#toc)
 
 ##Javascript
 
@@ -108,17 +108,17 @@ These are resources that I use on a regular or semi-regular basis.
 * [Bower](http://bower.io/)
 * [NPM](https://www.npmjs.org/)
 
-[[⬆]](#toc)
+[[ ⬆ Top ]](#toc)
 
 ##Ruby on Rails
 * [Layouts](http://guides.rubyonrails.org/layouts_and_rendering.html)
 
-[[⬆]](#toc)
+[[ ⬆ Top ]](#toc)
 
 ##Source Control
 * [Pro Git](http://git-scm.com/book)
 
-[[⬆]](#toc)
+[[ ⬆ Top ]](#toc)
 
 ##Tutorial Sites
 
@@ -135,4 +135,4 @@ These are resources that I use on a regular or semi-regular basis.
 * [Pluralsight](http://www.pluralsight.com/)
 * [Team Treehouse](http://www.teamtreehouse.com)
 
-[[⬆]](#toc)
+[[ ⬆ Top ]](#toc)
