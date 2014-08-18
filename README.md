@@ -84,6 +84,8 @@ These are resources that I use on a regular or semi-regular basis.
 * [iPhone GUI](http://www.teehanlax.com/tools/iphone/)
 * [iPhone Mockuuups](http://www.mockuuups.com/)
 * [Lipsum Generator](http://www.lipsum.pro/)
+* [Lorem Pixel](http://lorempixel.com/)
+* [Placehold.it](http://placehold.it/)
 
 [[ ⬆ Top ]](#toc)
 
