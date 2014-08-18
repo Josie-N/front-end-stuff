@@ -106,7 +106,6 @@ These are resources that I use on a regular or semi-regular basis.
 * [AngularJS Recipes](http://fdietz.github.io/recipes-with-angular-js/)
 * [Angular Seed Web Starter Kit](https://github.com/rafriki/angular-seed-web-starter-kit)
 * [AngularStrap](http://mgcrea.github.io/angular-strap/)
-* [Angular Seed Web Starter Kit](https://github.com/rafriki/angular-seed-web-starter-kit)
 * [Shaping Up With Angular](https://www.codeschool.com/courses/shaping-up-with-angular-js)
 
 ###Build Tools
