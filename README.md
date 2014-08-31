@@ -20,6 +20,7 @@ These are resources that I use on a regular or semi-regular basis.
 * [BEM](http://bem.github.io/bem-method/html/all.en.html)
 * [DoCSSa](http://docssa.info/)
 * [Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
+* [Medium's CSS is actually pretty f***ing good.](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06)
 * [Snugug North Github Repo](https://github.com/Snugug/north)
 
 [[ ⬆ Top ]](#toc)
