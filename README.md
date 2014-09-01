@@ -1,7 +1,7 @@
 Links to Front End Resources
 ============================
 
-These are resources that I use on a regular or semi-regular basis.
+This is a quick reference of links I refer to on a semi-regular basis. Feel free to fork, clone or otherwise use as you wish.
 
 
 ##TOC
