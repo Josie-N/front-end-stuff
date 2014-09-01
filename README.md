@@ -88,6 +88,11 @@ These are resources that I use on a regular or semi-regular basis.
 * [Lorem Pixel](http://lorempixel.com/)
 * [Placehold.it](http://placehold.it/)
 
+###Typography
+* [Paul Irish Bulletproof Font Face](http://www.paulirish.com/2009/bulletproof-font-face-implementation-syntax/)
+* [CSSLint Bulletproof Font Face](https://github.com/CSSLint/csslint/wiki/Bulletproof-font-face)
+* [Web Safe Helvetic Neue Stacks](http://rachaelmoore.name/posts/design/css/web-safe-helvetica-font-stack/)
+
 [[ ⬆ Top ]](#toc)
 
 ##HTML 
