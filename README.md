@@ -89,6 +89,7 @@ This is a quick reference of links I refer to on a semi-regular basis. Feel free
 * [Placehold.it](http://placehold.it/)
 
 ###Typography
+* [CSS Tricks - HTML Glyphs](http://css-tricks.com/snippets/html/glyphs/)
 * [Paul Irish Bulletproof Font Face](http://www.paulirish.com/2009/bulletproof-font-face-implementation-syntax/)
 * [CSSLint Bulletproof Font Face](https://github.com/CSSLint/csslint/wiki/Bulletproof-font-face)
 * [Web Safe Helvetic Neue Stacks](http://rachaelmoore.name/posts/design/css/web-safe-helvetica-font-stack/)
