@@ -60,9 +60,11 @@ This is a quick reference of links I refer to on a semi-regular basis. Feel free
 
 ###Libraries & Frameworks
 * [Compass](http://compass-style.org/)
+* [Famo.us](http://famo.us/)
 * [Ionic](http://ionicframework.com/docs/components/)
-  * [Ionic Animated Icons](http://ionicons.com/animation.html)
-  * [Ionic Standard Icons](http://ionicons.com/)
+  * [Ionic Formulas - (tutorial)](http://learn.ionicframework.com/formulas/)
+  * [Ionic Icons - Animated](http://ionicons.com/animation.html)
+  * [Ionic Icons - Standard](http://ionicons.com/)
   
 ###Preprocessors
 * [Sass](http://sass-lang.com/)
@@ -110,9 +112,11 @@ This is a quick reference of links I refer to on a semi-regular basis. Feel free
 * [A Better Way to Learn Angular](http://www.thinkster.io/angularjs/GtaQ0oMGIl/a-better-way-to-learn-angularjs)
 * [AngularJS For Absolute Beginners](http://medialoot.com/blog/angularjs-for-absolute-beginners/)
 * [AngularJS Hub](http://www.angularjshub.com/)
+* [Angular Material Design - (Based on Google Material Design)](https://github.com/angular/material)
 * [AngularJS Recipes](http://fdietz.github.io/recipes-with-angular-js/)
 * [Angular Seed Web Starter Kit](https://github.com/rafriki/angular-seed-web-starter-kit)
 * [AngularStrap](http://mgcrea.github.io/angular-strap/)
+* [Famo.us Angular Integration](http://famo.us/integrations/angular/)
 * [Shaping Up With Angular](https://www.codeschool.com/courses/shaping-up-with-angular-js)
 
 ###Build Tools
