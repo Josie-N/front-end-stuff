@@ -89,6 +89,7 @@ This is a quick reference of links I refer to on a semi-regular basis. Feel free
 * [Lipsum Generator](http://www.lipsum.pro/)
 * [Lorem Pixel](http://lorempixel.com/)
 * [Placehold.it](http://placehold.it/)
+* [Word 2 Clean HTML](http://word2cleanhtml.com/)
 
 ###Typography
 * [CSS Tricks - HTML Glyphs](http://css-tricks.com/snippets/html/glyphs/)
