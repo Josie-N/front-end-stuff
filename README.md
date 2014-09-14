@@ -65,6 +65,7 @@ This is a quick reference of links I refer to on a semi-regular basis. Feel free
   * [Ionic Formulas - (tutorial)](http://learn.ionicframework.com/formulas/)
   * [Ionic Icons - Animated](http://ionicons.com/animation.html)
   * [Ionic Icons - Standard](http://ionicons.com/)
+* [MEAN.js](http://meanjs.org/docs.html)
   
 ###Preprocessors
 * [Sass](http://sass-lang.com/)
