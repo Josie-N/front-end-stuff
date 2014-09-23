@@ -66,6 +66,8 @@ This is a quick reference of links I refer to on a semi-regular basis. Feel free
   * [Ionic Icons - Animated](http://ionicons.com/animation.html)
   * [Ionic Icons - Standard](http://ionicons.com/)
 * [MEAN.js](http://meanjs.org/docs.html)
+  * [NPM Package](https://www.npmjs.org/package/meanio)
+  * [mean-admin](https://github.com/linnovate/mean-admin)
   
 ###Preprocessors
 * [Sass](http://sass-lang.com/)
@@ -96,6 +98,7 @@ This is a quick reference of links I refer to on a semi-regular basis. Feel free
 * [CSS Tricks - HTML Glyphs](http://css-tricks.com/snippets/html/glyphs/)
 * [Paul Irish Bulletproof Font Face](http://www.paulirish.com/2009/bulletproof-font-face-implementation-syntax/)
 * [CSSLint Bulletproof Font Face](https://github.com/CSSLint/csslint/wiki/Bulletproof-font-face)
+* [Font2Web](http://www.font2web.com/)
 * [Web Safe Helvetic Neue Stacks](http://rachaelmoore.name/posts/design/css/web-safe-helvetica-font-stack/)
 
 [[ ⬆ Top ]](#toc)
@@ -125,6 +128,9 @@ This is a quick reference of links I refer to on a semi-regular basis. Feel free
 * [Gulp](http://gulpjs.com/)
 * [Bower](http://bower.io/)
 * [NPM](https://www.npmjs.org/)
+
+####Troubleshooting
+* [Error: Spawn](https://github.com/sindresorhus/gulp-imagemin/issues/10#issuecomment-43282213)
 
 [[ ⬆ Top ]](#toc)
 
