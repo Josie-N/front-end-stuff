@@ -45,6 +45,11 @@ This is a quick reference of links I refer to on a semi-regular basis. Feel free
 ##Browser Compatibility
 * [Can I Use](http://caniuse.com/)
 
+###Testing Tools
+* [ievms](https://github.com/xdissent/ievms)
+* [iectrl](https://www.npmjs.org/package/iectrl)
+
+
 [[ ⬆ Top ]](#toc)
 
 ##CSS
@@ -55,6 +60,7 @@ This is a quick reference of links I refer to on a semi-regular basis. Feel free
 * [Matthew Lein Ceaser](http://matthewlein.com/ceaser/)
 
 ###Flexbox
+* [Compass Flexbox](http://compass-style.org/reference/compass/css3/flexbox/)
 * [Microsoft Flexbox](http://msdn.microsoft.com/en-us/library/ie/hh673531(v=vs.85).aspx)
 * [Ultimate Flexbox Cheatsheet](http://www.sketchingwithcss.com/samplechapter/cheatsheet.html)
 
@@ -62,6 +68,7 @@ This is a quick reference of links I refer to on a semi-regular basis. Feel free
 * [Compass](http://compass-style.org/)
 * [Famo.us](http://famo.us/)
 * [Ionic](http://ionicframework.com/docs/components/)
+  * [Building Mobile Apps with Ionic Framework - (tutorial)](http://beta.pluralsight.com/courses/building-mobile-apps-ionic-framework-angularjs)
   * [Ionic Formulas - (tutorial)](http://learn.ionicframework.com/formulas/)
   * [Ionic Icons - Animated](http://ionicons.com/animation.html)
   * [Ionic Icons - Standard](http://ionicons.com/)
@@ -89,11 +96,9 @@ This is a quick reference of links I refer to on a semi-regular basis. Feel free
 * [iPad GUI](http://www.teehanlax.com/tools/ipad/)
 * [iPhone GUI](http://www.teehanlax.com/tools/iphone/)
 * [iPhone Mockuuups](http://www.mockuuups.com/)
-* [JSON Generator](http://www.json-generator.com/)
 * [Lipsum Generator](http://www.lipsum.pro/)
 * [Lorem Pixel](http://lorempixel.com/)
 * [Placehold.it](http://placehold.it/)
-* [Word 2 Clean HTML](http://word2cleanhtml.com/)
 
 ###Typography
 * [CSS Tricks - HTML Glyphs](http://css-tricks.com/snippets/html/glyphs/)
@@ -110,19 +115,26 @@ This is a quick reference of links I refer to on a semi-regular basis. Feel free
 * [Haml](http://haml.info/)
 * [Jade](http://naltatis.github.io/jade-syntax-docs/)
 
+###Tools
+* [Word 2 Clean HTML](http://word2cleanhtml.com/)
+
 [[ ⬆ Top ]](#toc)
 
 ##Javascript
 
 ###Angular
-* [A Better Way to Learn Angular](http://www.thinkster.io/angularjs/GtaQ0oMGIl/a-better-way-to-learn-angularjs)
-* [AngularJS For Absolute Beginners](http://medialoot.com/blog/angularjs-for-absolute-beginners/)
 * [AngularJS Hub](http://www.angularjshub.com/)
 * [Angular Material Design - (Based on Google Material Design)](https://github.com/angular/material)
 * [AngularJS Recipes](http://fdietz.github.io/recipes-with-angular-js/)
 * [Angular Seed Web Starter Kit](https://github.com/rafriki/angular-seed-web-starter-kit)
 * [AngularStrap](http://mgcrea.github.io/angular-strap/)
 * [Famo.us Angular Integration](http://famo.us/integrations/angular/)
+
+####Angular Tutorials 
+* [A Better Way to Learn Angular](http://www.thinkster.io/angularjs/GtaQ0oMGIl/a-better-way-to-learn-angularjs)
+* [AngularJS For Absolute Beginners](http://medialoot.com/blog/angularjs-for-absolute-beginners/)
+* [AngularJS Line of Business](http://beta.pluralsight.com/courses/angularjs-line-of-business-applications)
+* [Building AngularJS and NodeJS with MEAN](http://beta.pluralsight.com/courses/building-angularjs-nodejs-apps-mean)
 * [Shaping Up With Angular](https://www.codeschool.com/courses/shaping-up-with-angular-js)
 
 ###Build Tools
@@ -130,8 +142,8 @@ This is a quick reference of links I refer to on a semi-regular basis. Feel free
 * [Bower](http://bower.io/)
 * [NPM](https://www.npmjs.org/)
 
-####Troubleshooting
-* [Error: Spawn](https://github.com/sindresorhus/gulp-imagemin/issues/10#issuecomment-43282213)
+###JSON
+* [JSON Generator](http://www.json-generator.com/)
 
 [[ ⬆ Top ]](#toc)
 
@@ -157,7 +169,7 @@ This is a quick reference of links I refer to on a semi-regular basis. Feel free
 
 ###Paid
 * [Code School](http://www.codeschool.com)
-* [Pluralsight](http://www.pluralsight.com/)
-* [Team Treehouse](http://www.teamtreehouse.com)
+* [Pluralsight](http://www.pluralsight.com/) - My fave for dev stuff.
+* [Team Treehouse](http://www.teamtreehouse.com) - My fave for designy stuff
 
 [[ ⬆ Top ]](#toc)
