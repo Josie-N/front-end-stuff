@@ -89,6 +89,7 @@ This is a quick reference of links I refer to on a semi-regular basis. Feel free
 * [iPad GUI](http://www.teehanlax.com/tools/ipad/)
 * [iPhone GUI](http://www.teehanlax.com/tools/iphone/)
 * [iPhone Mockuuups](http://www.mockuuups.com/)
+* [JSON Generator](http://www.json-generator.com/)
 * [Lipsum Generator](http://www.lipsum.pro/)
 * [Lorem Pixel](http://lorempixel.com/)
 * [Placehold.it](http://placehold.it/)
