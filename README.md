@@ -93,6 +93,8 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 
 ###Principles
 * [Google Material Design](http://www.google.com/design/spec/material-design/introduction.html)
+* [IBM Design](http://ibm.com/design)
+* [IBM Mobile First](http://ibm.com/mobilefirst)
 * [iOS Human Interface Guidelines](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html#//apple_ref/doc/uid/TP40006556)
 
 ###Tools
