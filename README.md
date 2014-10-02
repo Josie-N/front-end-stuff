@@ -1,7 +1,7 @@
-Links to Front End Resources
-============================
+Front End Resources
+===================
 
-This is a quick reference of links I refer to on a semi-regular basis. Feel free to fork, clone or otherwise use as you wish.
+This is a quick reference of links and tools I refer to on a semi-regular basis. Feel free to fork, clone or otherwise use as you wish.
 
 
 ##TOC
@@ -59,6 +59,11 @@ This is a quick reference of links I refer to on a semi-regular basis. Feel free
 * [Cubic Bezier](http://cubic-bezier.com/)
 * [Matthew Lein Ceaser](http://matthewlein.com/ceaser/)
 
+##Best Practices
+* [CSS Guidelines](http://cssguidelin.es/)
+* [Code Guide by @mdo](http://codeguide.co/)
+* [Principals of Writing Idiomatic Sass](https://github.com/anthonyshort/idiomatic-sass)
+
 ###Flexbox
 * [Compass Flexbox](http://compass-style.org/reference/compass/css3/flexbox/)
 * [Microsoft Flexbox](http://msdn.microsoft.com/en-us/library/ie/hh673531(v=vs.85).aspx)
@@ -109,7 +114,10 @@ This is a quick reference of links I refer to on a semi-regular basis. Feel free
 
 [[ ⬆ Top ]](#toc)
 
-##HTML 
+##HTML
+
+##Best Practices
+* [Code Guide by @mdo](http://codeguide.co/) (repeat from above)
 
 ###Preprocessors
 * [Haml](http://haml.info/)
@@ -141,6 +149,11 @@ This is a quick reference of links I refer to on a semi-regular basis. Feel free
 * [Gulp](http://gulpjs.com/)
 * [Bower](http://bower.io/)
 * [NPM](https://www.npmjs.org/)
+
+###Modernizr Hooks for oldIE
+* [ie7] - screw IE7
+* [ie8] - `no-backgroundsize`
+* [ie9] - `no-csstransforms3d`
 
 ###JSON
 * [JSON Generator](http://www.json-generator.com/)
