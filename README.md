@@ -12,6 +12,7 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 * [Design](#design)
 * [HTML](#html)
 * [Javascript](#javascript)
+* [Performance](#performance)
 * [Ruby on Rails](#ruby-on-rails)
 * [Source Control](#source-control)
 * [Tutorial Sites](#tutorial-sites)
@@ -118,7 +119,7 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 
 ##HTML
 
-##Best Practices
+###Best Practices
 * [Code Guide by @mdo](http://codeguide.co/) (repeat from above)
 
 ###Preprocessors
@@ -162,6 +163,17 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 * [JSON Generator](http://www.json-generator.com/)
 
 [[ ⬆ Top ]](#toc)
+
+##Performance
+* [Addy Osmani Critical CSS](https://github.com/addyosmani/critical)
+ * [LoadCSS.js](https://github.com/filamentgroup/loadCSS)
+* [Chrome Dev Tools Network Monitor](https://developer.chrome.com/devtools/docs/network)
+* [kaaes/timing tool](http://kaaes.github.io/timing/)
+* [Navigation Timing API](https://dvcs.w3.org/hg/webperf/raw-file/tip/specs/NavigationTiming/Overview.html)
+* [Page Speed](https://developers.google.com/speed/pagespeed/)
+* [UnCSS](https://github.com/ben-eb/gulp-uncss)
+* [Web Page Test](http://www.webpagetest.org/)
+
 
 ##Ruby on Rails
 * [Layouts](http://guides.rubyonrails.org/layouts_and_rendering.html)
