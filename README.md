@@ -42,14 +42,12 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 * [Reddit Design](http://www.reddit.com/r/Design/)
 * [Reddit Web Design](http://www.reddit.com/r/web_design)
 
-
 ##Browser Compatibility
 * [Can I Use](http://caniuse.com/)
 
 ###Testing Tools
 * [ievms](https://github.com/xdissent/ievms)
 * [iectrl](https://www.npmjs.org/package/iectrl)
-
 
 [[ ⬆ Top ]](#toc)
 
@@ -89,6 +87,13 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 
 ##Design
 
+###Mock Tools
+* [Android px to dp Converter](http://labs.rampinteractive.co.uk/android_dp_px_calculator/)
+* [iPad GUI](http://www.teehanlax.com/tools/ipad/)
+* [iPhone GUI](http://www.teehanlax.com/tools/iphone/)
+* [iPhone Mockuuups](http://www.mockuuups.com/)
+* [iOS Cheat Sheet](http://ivomynttinen.com/blog/the-ios-design-cheat-sheet-volume-2/) 
+
 ###Photoshop
 * [Photoshop 2014 Updates](http://webdesign.tutsplus.com/tutorials/photoshop-cc-2014-whats-new-for-web-designers--cms-21634)
 
@@ -97,16 +102,6 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 * [IBM Design](http://ibm.com/design)
 * [IBM Mobile First](http://ibm.com/mobilefirst)
 * [iOS Human Interface Guidelines](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html#//apple_ref/doc/uid/TP40006556)
-
-###Tools
-* [Android px to dp Converter](http://labs.rampinteractive.co.uk/android_dp_px_calculator/)
-* [iOS Cheat Sheet](http://ivomynttinen.com/blog/the-ios-design-cheat-sheet-volume-2/)
-* [iPad GUI](http://www.teehanlax.com/tools/ipad/)
-* [iPhone GUI](http://www.teehanlax.com/tools/iphone/)
-* [iPhone Mockuuups](http://www.mockuuups.com/)
-* [Lipsum Generator](http://www.lipsum.pro/)
-* [Lorem Pixel](http://lorempixel.com/)
-* [Placehold.it](http://placehold.it/)
 
 ###Typography
 * [CSS Tricks - HTML Glyphs](http://css-tricks.com/snippets/html/glyphs/)
@@ -121,6 +116,11 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 
 ###Best Practices
 * [Code Guide by @mdo](http://codeguide.co/) (repeat from above)
+
+###Content Generators
+* [Lipsum Generator](http://www.lipsum.pro/)
+* [Lorem Pixel](http://lorempixel.com/)
+* [Placehold.it](http://placehold.it/)
 
 ###Preprocessors
 * [Haml](http://haml.info/)
@@ -140,13 +140,6 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 * [Angular Seed Web Starter Kit](https://github.com/rafriki/angular-seed-web-starter-kit)
 * [AngularStrap](http://mgcrea.github.io/angular-strap/)
 * [Famo.us Angular Integration](http://famo.us/integrations/angular/)
-
-####Angular Tutorials 
-* [A Better Way to Learn Angular](http://www.thinkster.io/angularjs/GtaQ0oMGIl/a-better-way-to-learn-angularjs)
-* [AngularJS For Absolute Beginners](http://medialoot.com/blog/angularjs-for-absolute-beginners/)
-* [AngularJS Line of Business](http://beta.pluralsight.com/courses/angularjs-line-of-business-applications)
-* [Building AngularJS and NodeJS with MEAN](http://beta.pluralsight.com/courses/building-angularjs-nodejs-apps-mean)
-* [Shaping Up With Angular](https://www.codeschool.com/courses/shaping-up-with-angular-js)
 
 ###Build Tools
 * [Gulp](http://gulpjs.com/)
@@ -174,6 +167,13 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 * [UnCSS](https://github.com/ben-eb/gulp-uncss)
 * [Web Page Test](http://www.webpagetest.org/)
 
+[[ ⬆ Top ]](#toc)
+
+##Podcasts
+* [Adventures in Angular](http://devchat.tv/adventures-in-angular/)
+* [Shop Talk Show](http://shoptalkshow.com/)
+
+[[ ⬆ Top ]](#toc)
 
 ##Ruby on Rails
 * [Layouts](http://guides.rubyonrails.org/layouts_and_rendering.html)
@@ -185,9 +185,18 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 
 [[ ⬆ Top ]](#toc)
 
-##Tutorial Sites
+##Tutorials
 
-###Free
+###Angular Tutorials 
+* [A Better Way to Learn Angular](http://www.thinkster.io/angularjs/GtaQ0oMGIl/a-better-way-to-learn-angularjs)
+* [AngularJS For Absolute Beginners](http://medialoot.com/blog/angularjs-for-absolute-beginners/)
+* [AngularJS Line of Business](http://beta.pluralsight.com/courses/angularjs-line-of-business-applications)
+* [Building AngularJS and NodeJS with MEAN](http://beta.pluralsight.com/courses/building-angularjs-nodejs-apps-mean)
+* [Shaping Up With Angular](https://www.codeschool.com/courses/shaping-up-with-angular-js)
+
+###LearningSites
+
+####Free
 * [Codecademy](http://www.codecademy.com/)
 * [Codrops](http://tympanus.net/codrops/)
 * [Learn Code the Hard Way](http://learncodethehardway.org/)
@@ -195,7 +204,7 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 * [Udacity](https://www.udacity.com/courses#!/web-development)
   * There are free and paid versions of these courses, as well. Also very good stuff!
 
-###Paid
+####Paid
 * [Code School](http://www.codeschool.com)
 * [Pluralsight](http://www.pluralsight.com/) - My fave for dev stuff.
 * [Team Treehouse](http://www.teamtreehouse.com) - My fave for designy stuff
