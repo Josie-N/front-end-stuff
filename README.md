@@ -127,7 +127,9 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 * [Jade](http://naltatis.github.io/jade-syntax-docs/)
 
 ###Tools
+* [Unicode Character Table](http://unicode-table.com/en/)
 * [Word 2 Clean HTML](http://word2cleanhtml.com/)
+
 
 [[ ⬆ Top ]](#toc)
 
