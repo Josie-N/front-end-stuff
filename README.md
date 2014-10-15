@@ -191,6 +191,7 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 
 ###Angular Tutorials 
 * [A Better Way to Learn Angular](http://www.thinkster.io/angularjs/GtaQ0oMGIl/a-better-way-to-learn-angularjs)
+* [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](http://www.airpair.com/angularjs)
 * [AngularJS For Absolute Beginners](http://medialoot.com/blog/angularjs-for-absolute-beginners/)
 * [AngularJS Line of Business](http://beta.pluralsight.com/courses/angularjs-line-of-business-applications)
 * [Building AngularJS and NodeJS with MEAN](http://beta.pluralsight.com/courses/building-angularjs-nodejs-apps-mean)
