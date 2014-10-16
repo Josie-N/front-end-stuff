@@ -79,6 +79,7 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 * [MEAN.js](http://meanjs.org/docs.html)
   * [NPM Package](https://www.npmjs.org/package/meanio)
   * [mean-admin](https://github.com/linnovate/mean-admin)
+* [Mobile AngularUI](http://mobileangularui.com/)
   
 ###Preprocessors
 * [Sass](http://sass-lang.com/)
