@@ -48,6 +48,7 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 ###Testing Tools
 * [ievms](https://github.com/xdissent/ievms)
 * [iectrl](https://www.npmjs.org/package/iectrl)
+* [Pageres](https://github.com/sindresorhus/pageres)
 
 [[ ⬆ Top ]](#toc)
 
