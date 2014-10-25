@@ -81,7 +81,7 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
   * [NPM Package](https://www.npmjs.org/package/meanio)
   * [mean-admin](https://github.com/linnovate/mean-admin)
 * [Mobile AngularUI](http://mobileangularui.com/)
-  
+
 ###Preprocessors
 * [Sass](http://sass-lang.com/)
 
@@ -94,7 +94,7 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 * [iPad GUI](http://www.teehanlax.com/tools/ipad/)
 * [iPhone GUI](http://www.teehanlax.com/tools/iphone/)
 * [iPhone Mockuuups](http://www.mockuuups.com/)
-* [iOS Cheat Sheet](http://ivomynttinen.com/blog/the-ios-design-cheat-sheet-volume-2/) 
+* [iOS Cheat Sheet](http://ivomynttinen.com/blog/the-ios-design-cheat-sheet-volume-2/)
 
 ###Photoshop
 * [Photoshop 2014 Updates](http://webdesign.tutsplus.com/tutorials/photoshop-cc-2014-whats-new-for-web-designers--cms-21634)
@@ -193,7 +193,7 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 
 ##Tutorials
 
-###Angular Tutorials 
+###Angular Tutorials
 * [A Better Way to Learn Angular](http://www.thinkster.io/angularjs/GtaQ0oMGIl/a-better-way-to-learn-angularjs)
 * [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](http://www.airpair.com/angularjs)
 * [AngularJS For Absolute Beginners](http://medialoot.com/blog/angularjs-for-absolute-beginners/)
@@ -213,7 +213,7 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 
 ####Paid
 * [Code School](http://www.codeschool.com)
-* [Pluralsight](http://www.pluralsight.com/) - My fave for dev stuff.
-* [Team Treehouse](http://www.teamtreehouse.com) - My fave for designy stuff
+* [Pluralsight](http://www.pluralsight.com/)
+* [Team Treehouse](http://www.teamtreehouse.com)
 
 [[ ⬆ Top ]](#toc)
