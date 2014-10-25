@@ -207,9 +207,7 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 * [Codecademy](http://www.codecademy.com/)
 * [Codrops](http://tympanus.net/codrops/)
 * [Learn Code the Hard Way](http://learncodethehardway.org/)
-  * There are free and paid versions of these courses. Very good stuff.
 * [Udacity](https://www.udacity.com/courses#!/web-development)
-  * There are free and paid versions of these courses, as well. Also very good stuff!
 
 ####Paid
 * [Code School](http://www.codeschool.com)
