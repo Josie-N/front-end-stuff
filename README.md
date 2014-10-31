@@ -151,7 +151,9 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 * [Bower](http://bower.io/)
 * [NPM](https://www.npmjs.org/)
 * [Yeoman](http://yeoman.io)
-  * [Angular Generator Issues](https://github.com/yeoman/generator-angular/issues/841)
+  * Angular Generator Issues
+    * [Github Generator Angular](https://github.com/yeoman/generator-angular/issues/841)
+    * [Stack Overflow](http://stackoverflow.com/questions/25709324/grunt-wiredepapp-no-such-file-or-directory-bower-json)
 
 ###Modernizr Hooks for oldIE
 * [ie7] - screw IE7
