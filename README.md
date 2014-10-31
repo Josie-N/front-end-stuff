@@ -143,6 +143,7 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 * [AngularJS Recipes](http://fdietz.github.io/recipes-with-angular-js/)
 * [Angular Seed Web Starter Kit](https://github.com/rafriki/angular-seed-web-starter-kit)
 * [AngularStrap](http://mgcrea.github.io/angular-strap/)
+* [Coming from JQuery Background](http://stackoverflow.com/questions/14994391/how-do-i-think-in-angularjs-if-i-have-a-jquery-background/15012542#15012542)
 * [Famo.us Angular Integration](http://famo.us/integrations/angular/)
 
 ###Build Tools
