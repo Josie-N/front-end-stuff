@@ -69,6 +69,9 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 * [Microsoft Flexbox](http://msdn.microsoft.com/en-us/library/ie/hh673531(v=vs.85).aspx)
 * [Ultimate Flexbox Cheatsheet](http://www.sketchingwithcss.com/samplechapter/cheatsheet.html)
 
+###Grid Calculator
+* [Grid Calculator](http://gridcalculator.dk/)
+
 ###Libraries & Frameworks
 * [Compass](http://compass-style.org/)
 * [Famo.us](http://famo.us/)
