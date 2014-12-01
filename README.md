@@ -177,6 +177,8 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 ##Media
 * [Youtube Player Demo](https://developers.google.com/youtube/youtube_player_demo)
 
+[[ ⬆ Top ]](#toc)
+
 ##Performance
 * [Addy Osmani Critical CSS](https://github.com/addyosmani/critical)
  * [LoadCSS.js](https://github.com/filamentgroup/loadCSS)
