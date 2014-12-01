@@ -218,13 +218,20 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 ###LearningSites
 
 ####Free
+* [Channel9 Javascript](http://channel9.msdn.com/Series/Javascript-Fundamentals-Development-for-Absolute-Beginners?page=2)
 * [Codecademy](http://www.codecademy.com/)
+* [Codeplayer](http://thecodeplayer.com/)
 * [Codrops](http://tympanus.net/codrops/)
+* [How To Learn Javascript Properly](http://javascriptissexy.com/how-to-learn-javascript-properly/)
 * [Learn Code the Hard Way](http://learncodethehardway.org/)
+* [MDN Javascript](https://developer.mozilla.org/en-US/learn/javascript)
+* [Thinkster.io Angular Tutorials](https://thinkster.io)
 * [Udacity](https://www.udacity.com/courses#!/web-development)
 
 ####Paid
 * [Code School](http://www.codeschool.com)
+* [Digital Tutors](http://www.digitaltutors.com/)
+* [Lynda.com](http://www.lynda.com)
 * [Pluralsight](http://www.pluralsight.com/)
 * [Team Treehouse](http://www.teamtreehouse.com)
 
