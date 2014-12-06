@@ -20,10 +20,8 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 
 ##Architecture & Best Practices
 * [BEM](http://bem.github.io/bem-method/html/all.en.html)
-* [DoCSSa](http://docssa.info/)
 * [Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
-* [Medium's CSS is actually pretty f***ing good.](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06)
-* [Snugug North Github Repo](https://github.com/Snugug/north)
+* [Udacity Front End Style Guid](http://udacity.github.io/frontend-nanodegree-styleguide/)
 
 [[ ⬆ Top ]](#toc)
 
@@ -75,15 +73,12 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 
 ###Libraries & Frameworks
 * [Compass](http://compass-style.org/)
-* [Famo.us](http://famo.us/)
 * [Ionic](http://ionicframework.com/docs/components/)
   * [Building Mobile Apps with Ionic Framework - (tutorial)](http://beta.pluralsight.com/courses/building-mobile-apps-ionic-framework-angularjs)
   * [Ionic Formulas - (tutorial)](http://learn.ionicframework.com/formulas/)
   * [Ionic Icons - Animated](http://ionicons.com/animation.html)
   * [Ionic Icons - Standard](http://ionicons.com/)
-* [MEAN.js](http://meanjs.org/docs.html)
   * [NPM Package](https://www.npmjs.org/package/meanio)
-  * [mean-admin](https://github.com/linnovate/mean-admin)
 * [Mobile AngularUI](http://mobileangularui.com/)
 
 ###Preprocessors
@@ -115,7 +110,6 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 * [Paul Irish Bulletproof Font Face](http://www.paulirish.com/2009/bulletproof-font-face-implementation-syntax/)
 * [CSSLint Bulletproof Font Face](https://github.com/CSSLint/csslint/wiki/Bulletproof-font-face)
 * [Font2Web](http://www.font2web.com/)
-* [Web Safe Helvetic Neue Stacks](http://rachaelmoore.name/posts/design/css/web-safe-helvetica-font-stack/)
 
 [[ ⬆ Top ]](#toc)
 
@@ -214,8 +208,6 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 * [A Better Way to Learn Angular](http://www.thinkster.io/angularjs/GtaQ0oMGIl/a-better-way-to-learn-angularjs)
 * [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](http://www.airpair.com/angularjs)
 * [AngularJS For Absolute Beginners](http://medialoot.com/blog/angularjs-for-absolute-beginners/)
-* [AngularJS Line of Business](http://beta.pluralsight.com/courses/angularjs-line-of-business-applications)
-* [Building AngularJS and NodeJS with MEAN](http://beta.pluralsight.com/courses/building-angularjs-nodejs-apps-mean)
 * [Shaping Up With Angular](https://www.codeschool.com/courses/shaping-up-with-angular-js)
 
 ###LearningSites
@@ -237,5 +229,6 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 * [Lynda.com](http://www.lynda.com)
 * [Pluralsight](http://www.pluralsight.com/)
 * [Team Treehouse](http://www.teamtreehouse.com)
+* [Udacity](http://www.udacity.com)
 
 [[ ⬆ Top ]](#toc)
