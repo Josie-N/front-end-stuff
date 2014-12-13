@@ -8,6 +8,7 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 * [Architecture & Best Practices](#architecture--best-practices)
 * [Blogs & Communities](#blogs--communities)
 * [Browser Compatibtility](#browser-compatibility)
+* [Code Editors](#editors)
 * [CSS](#css)
 * [Design](#design)
 * [HTML](#html)
@@ -16,6 +17,7 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 * [Performance](#performance)
 * [Ruby on Rails](#ruby-on-rails)
 * [Source Control](#source-control)
+* [Terminal](#terminal-resources)
 * [Tutorial Sites](#tutorial-sites)
 
 ##Architecture & Best Practices
@@ -48,6 +50,13 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 * [ievms](https://github.com/xdissent/ievms)
 * [iectrl](https://www.npmjs.org/package/iectrl)
 * [Pageres](https://github.com/sindresorhus/pageres)
+
+[[ ⬆ Top ]](#toc)
+
+##Code Editors
+* [Atom](http://www.atom.io)
+* [Chrome Dev Editor](https://chrome.google.com/webstore/detail/chrome-dev-editor-develop/pnoffddplpippgcfjdhbmhkofpnaalpg)
+* [Sublime Text](http://www.sublimetext.com)
 
 [[ ⬆ Top ]](#toc)
 
@@ -99,6 +108,7 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 * [Photoshop 2014 Updates](http://webdesign.tutsplus.com/tutorials/photoshop-cc-2014-whats-new-for-web-designers--cms-21634)
 
 ###Principles
+* [Codepen Design Patterns](http://codepen.io/patterns/?mkt_tok=3RkMMJWWfF9wsRonuavJZKXonjHpfsX66e8rWKa%2BlMI%2F0ER3fOvrPUfGjI4ATsFlI%2BSLDwEYGJlv6SgFTLHGMbdlwLgJWBj0TD7slJfbfYRPf6Ba2Jw1qw%3D%3D)
 * [Dribbble UI](https://dribbble.com/search?q=interface)
 * [Google Material Design](http://www.google.com/design/spec/material-design/introduction.html)
 * [IBM Design](http://ibm.com/design)
@@ -200,6 +210,11 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 
 ##Source Control
 * [Pro Git](http://git-scm.com/book)
+
+[[ ⬆ Top ]](#toc)
+
+##Terminal
+* [Console.log() Updates](https://developer.chrome.com/devtools/docs/tips-and-tricks?mkt_tok=3RkMMJWWfF9wsRonuavJZKXonjHpfsX66e8rWKa%2BlMI%2F0ER3fOvrPUfGjI4ATsFlI%2BSLDwEYGJlv6SgFTLHGMbdlwLgJWBj0TD7slJfbfYRPf6Ba2Jw1qw%3D%3D)
 
 [[ ⬆ Top ]](#toc)
 
