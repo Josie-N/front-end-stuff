@@ -231,6 +231,7 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 ####Free
 * [Channel9 Javascript](http://channel9.msdn.com/Series/Javascript-Fundamentals-Development-for-Absolute-Beginners?page=2)
 * [Codecademy](http://www.codecademy.com/)
+* [Code Combat](http://codecombat.com/)
 * [Codeplayer](http://thecodeplayer.com/)
 * [Codrops](http://tympanus.net/codrops/)
 * [How To Learn Javascript Properly](http://javascriptissexy.com/how-to-learn-javascript-properly/)
