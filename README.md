@@ -210,6 +210,7 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 
 ##Source Control
 * [Pro Git](http://git-scm.com/book)
+* [GH-Pages and GoDaddy](https://medium.com/@LovettLovett/github-pages-godaddy-f0318c2f25a)
 
 [[ ⬆ Top ]](#toc)
 
