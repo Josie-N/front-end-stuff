@@ -182,6 +182,7 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 
 ##Media
 * [Youtube Player Demo](https://developers.google.com/youtube/youtube_player_demo)
+* [WebVTT Validation](https://quuz.org/webvtt/)
 
 [[ ⬆ Top ]](#toc)
 
