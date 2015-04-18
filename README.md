@@ -21,7 +21,6 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 ##Architecture & Best Practices
 * [BEM](http://bem.github.io/bem-method/html/all.en.html)
 * [Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
-* [Udacity Front End Style Guid](http://udacity.github.io/frontend-nanodegree-styleguide/)
 
 [[ ⬆ Top ]](#toc)
 
@@ -31,13 +30,11 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 ###Testing Tools
 * [ievms](https://github.com/xdissent/ievms)
 * [iectrl](https://www.npmjs.org/package/iectrl)
-* [Pageres](https://github.com/sindresorhus/pageres)
 
 [[ ⬆ Top ]](#toc)
 
 ##Code Editors
 * [Atom](http://www.atom.io)
-* [Chrome Dev Editor](https://chrome.google.com/webstore/detail/chrome-dev-editor-develop/pnoffddplpippgcfjdhbmhkofpnaalpg)
 * [Sublime Text](http://www.sublimetext.com)
 
 [[ ⬆ Top ]](#toc)
@@ -89,8 +86,6 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 * [iPhone Mockuuups](http://www.mockuuups.com/)
 * [iOS Cheat Sheet](http://ivomynttinen.com/blog/the-ios-design-cheat-sheet-volume-2/)
 
-###Photoshop
-* [Photoshop 2014 Updates](http://webdesign.tutsplus.com/tutorials/photoshop-cc-2014-whats-new-for-web-designers--cms-21634)
 
 ###Principles
 * [Codepen Design Patterns](http://codepen.io/patterns/?mkt_tok=3RkMMJWWfF9wsRonuavJZKXonjHpfsX66e8rWKa%2BlMI%2F0ER3fOvrPUfGjI4ATsFlI%2BSLDwEYGJlv6SgFTLHGMbdlwLgJWBj0TD7slJfbfYRPf6Ba2Jw1qw%3D%3D)
@@ -105,6 +100,9 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 * [Paul Irish Bulletproof Font Face](http://www.paulirish.com/2009/bulletproof-font-face-implementation-syntax/)
 * [CSSLint Bulletproof Font Face](https://github.com/CSSLint/csslint/wiki/Bulletproof-font-face)
 * [Font2Web](http://www.font2web.com/)
+
+###Vertical Rhythm
+* [Basehold.it](http://basehold.it)
 
 [[ ⬆ Top ]](#toc)
 
@@ -218,14 +216,11 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 ####Free
 * [Channel9 Javascript](http://channel9.msdn.com/Series/Javascript-Fundamentals-Development-for-Absolute-Beginners?page=2)
 * [Codecademy](http://www.codecademy.com/)
-* [Code Combat](http://codecombat.com/)
-* [Codeplayer](http://thecodeplayer.com/)
 * [Codrops](http://tympanus.net/codrops/)
 * [How To Learn Javascript Properly](http://javascriptissexy.com/how-to-learn-javascript-properly/)
 * [Learn Code the Hard Way](http://learncodethehardway.org/)
 * [MDN Javascript](https://developer.mozilla.org/en-US/learn/javascript)
 * [Thinkster.io Angular Tutorials](https://thinkster.io)
-* [Udacity](https://www.udacity.com/courses#!/web-development)
 
 ####Paid
 * [Code School](http://www.codeschool.com)
