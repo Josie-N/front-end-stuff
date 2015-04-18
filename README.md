@@ -6,8 +6,6 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 
 ##TOC
 * [Architecture & Best Practices](#architecture--best-practices)
-* [Blogs & Communities](#blogs--communities)
-* [Browser Compatibtility](#browser-compatibility)
 * [Code Editors](#editors)
 * [CSS](#css)
 * [Design](#design)
@@ -26,22 +24,6 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 * [Udacity Front End Style Guid](http://udacity.github.io/frontend-nanodegree-styleguide/)
 
 [[ ⬆ Top ]](#toc)
-
-##Blogs & Communities
-
-###Blogs
-* [Addy Osmani](http://addyosmani.com/blog)
-* [Brad Frost](http://bradfrostweb.com/blog/)
-* [Codrops](http://tympanus.net/codrops/)
-* [Nicolas Gallagher](http://nicolasgallagher.com/)
-* [Paul Irish](http://www.paulirish.com/)
-* [Planning for Aliens](http://www.planningforaliens.com/)
-* [SitePoint](http://www.sitepoint.com)
-* [Smashing Magazine](http://www.smashingmagazine.com)
-
-###Communities
-* [Reddit Design](http://www.reddit.com/r/Design/)
-* [Reddit Web Design](http://www.reddit.com/r/web_design)
 
 ##Browser Compatibility
 * [Can I Use](http://caniuse.com/)
