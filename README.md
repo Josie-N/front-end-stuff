@@ -6,6 +6,7 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 
 ##TOC
 * [Architecture & Best Practices](#architecture--best-practices)
+* [Bash](#bash)
 * [Code Editors](#editors)
 * [CSS](#css)
 * [Design](#design)
@@ -23,6 +24,70 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 * [Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
 
 [[ ⬆ Top ]](#toc)
+
+##Bash
+
+###Show Git branch, and RVM Gemset
+
+```
+function __parse_git_branch {
+ git branch --no-color 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/(\1)/'
+}
+
+function __my_rvm_ruby_version {
+ local gemset=$(echo $GEM_HOME | awk -F'@' '{print $2}')
+ [ "$gemset" != "" ] && gemset="@$gemset"
+ local version=$(echo $MY_RUBY_HOME | awk -F'-' '{print $2}')
+ [ "$version" == "1.8.7" ] && version=""
+ local full="$version$gemset"
+ [ "$full" != "" ] && echo "$full "
+}
+
+# via http://tammersaleh.com/posts/a-better-rvm-bash-prompt
+bash_prompt() {
+ local NONE="\[\033[0m\]"    # unsets color to term's fg color
+
+ # regular colors
+ local K="\[\033[0;30m\]"    # black
+ local R="\[\033[0;31m\]"    # red
+ local G="\[\033[0;32m\]"    # green
+ local Y="\[\033[0;33m\]"    # yellow
+ local B="\[\033[0;34m\]"    # blue
+ local M="\[\033[0;35m\]"    # magenta
+ local C="\[\033[0;36m\]"    # cyan
+ local W="\[\033[0;37m\]"    # white
+
+ local UC=$W                 # user's color
+ [ $UID -eq "0" ] && UC=$R   # root's color
+
+ PS1="$G\$(__my_rvm_ruby_version)$R\w $Y\$(__parse_git_branch)$R\$(__git_dirty)${NONE}$ "
+}
+
+bash_prompt
+unset bash_prompt
+
+
+function __git_dirty {
+  git diff --quiet HEAD &>/dev/null
+  [ $? == 1 ] && echo "!"
+}
+```
+
+### Edit dot files
+
+```
+alias editbash='sublime ~/.bash_profile'
+alias edithosts='sublime /etc/hosts'
+alias editssh='sublime subl ~/.ssh/id_rsa'
+alias editgit='sublime ~/.gitconfig'
+```
+
+### Local Server
+
+```
+alias pythonserver='python -m SimpleHTTPServer 8000'
+alias l8000='open http://localhost:8000'
+```
 
 ##Browser Compatibility
 * [Can I Use](http://caniuse.com/)
@@ -195,6 +260,40 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 ##Source Control
 * [Pro Git](http://git-scm.com/book)
 * [GH-Pages and GoDaddy](https://medium.com/@LovettLovett/github-pages-godaddy-f0318c2f25a)
+
+### .gitconfig
+```
+[user]
+  name = YOUR_NAME
+  email = YOUR_EMAIL
+[core]
+  editor = sublime -n -w
+[github]
+  user = YOUR_USER_NAME
+[color]
+  ui = true
+[alias]
+  acom = commit -am
+  co = checkout
+  st = status
+  pom = push origin master
+  pog = push origin gh-pages
+  pulm = pull origin master
+  pulg = pull origin gh-pages
+  dist = subtree push --prefix dist origin gh-pages
+[credential "UNFUDDLE_GIT_REP"]
+  username = YOUR_USER_NAME
+[credential "https://github.com"]
+  username = YOUR_USER_NAME
+[credential]
+  helper = osxkeychain
+[mergetool]
+  keepBackup = false
+[merge]
+  summary = true
+  tool = opendiff
+  log = true
+```
 
 [[ ⬆ Top ]](#toc)
 
