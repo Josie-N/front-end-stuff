@@ -258,6 +258,7 @@ alias l8000='open http://localhost:8000'
 [[ ⬆ Top ]](#toc)
 
 ##Source Control
+* [Deploying a subfolder to GitHub Pages](https://gist.github.com/cobyism/4730490)
 * [Pro Git](http://git-scm.com/book)
 * [GH-Pages and GoDaddy](https://medium.com/@LovettLovett/github-pages-godaddy-f0318c2f25a)
 
@@ -294,6 +295,8 @@ alias l8000='open http://localhost:8000'
   tool = opendiff
   log = true
 ```
+
+
 
 [[ ⬆ Top ]](#toc)
 
