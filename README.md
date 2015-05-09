@@ -111,10 +111,14 @@ alias l8000='open http://localhost:8000'
 * [Cubic Bezier](http://cubic-bezier.com/)
 * [Matthew Lein Ceaser](http://matthewlein.com/ceaser/)
 
-##Best Practices
+###Best Practices
 * [CSS Guidelines](http://cssguidelin.es/)
 * [Code Guide by @mdo](http://codeguide.co/)
 * [Principals of Writing Idiomatic Sass](https://github.com/anthonyshort/idiomatic-sass)
+
+###Clipping Masks
+* [Clip Path Generator](http://cssplant.com/clip-path-generator)
+* [Clippy](http://bennettfeely.com/clippy/)
 
 ###Flexbox
 * [Compass Flexbox](http://compass-style.org/reference/compass/css3/flexbox/)
