@@ -95,8 +95,8 @@ alias l8000='open http://localhost:8000'
 * [Can I Use](http://caniuse.com/)
 
 ###Testing Tools
-* [ievms](https://github.com/xdissent/ievms)
-* [iectrl](https://www.npmjs.org/package/iectrl)
+* [Modern.ie](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)
+* [Virtual Box](https://www.virtualbox.org/wiki/Downloads)
 
 [[ ⬆ Top ]](#toc)
 
