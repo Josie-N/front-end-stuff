@@ -18,7 +18,7 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 * [Source Control](#source-control)
 * [Terminal](#terminal-resources)
 * [Tutorial Sites](#tutorial-sites)
-* [Useful Mixins](#useful-mixins)
+* [Useful Mixins](#useful-sass-mixins)
 
 ##Architecture & Best Practices
 * [BEM](http://bem.github.io/bem-method/html/all.en.html)
@@ -301,8 +301,6 @@ alias l8000='open http://localhost:8000'
   log = true
 ```
 
-
-
 [[ ⬆ Top ]](#toc)
 
 ##Terminal
@@ -412,3 +410,4 @@ alias l8000='open http://localhost:8000'
   }
 }
 ```
+[[ ⬆ Top ]](#toc)
