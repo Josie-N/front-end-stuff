@@ -15,10 +15,11 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 * [Media](#media)
 * [Performance](#performance)
 * [Ruby on Rails](#ruby-on-rails)
+* [Sass](#sass)
 * [Source Control](#source-control)
 * [Terminal](#terminal-resources)
 * [Tutorial Sites](#tutorial-sites)
-* [Useful Mixins](#useful-sass-mixins)
+
 
 ##Architecture & Best Practices
 * [BEM](http://bem.github.io/bem-method/html/all.en.html)
@@ -117,17 +118,12 @@ alias l8000='open http://localhost:8000'
 * [Code Guide by @mdo](http://codeguide.co/)
 * [Principals of Writing Idiomatic Sass](https://github.com/anthonyshort/idiomatic-sass)
 
+###Calculators
+* [Grid Calculator](http://gridcalculator.dk/)
+
 ###Clipping Masks
 * [Clip Path Generator](http://cssplant.com/clip-path-generator)
 * [Clippy](http://bennettfeely.com/clippy/)
-
-###Flexbox
-* [Compass Flexbox](http://compass-style.org/reference/compass/css3/flexbox/)
-* [Microsoft Flexbox](http://msdn.microsoft.com/en-us/library/ie/hh673531(v=vs.85).aspx)
-* [Ultimate Flexbox Cheatsheet](http://www.sketchingwithcss.com/samplechapter/cheatsheet.html)
-
-###Grid Calculator
-* [Grid Calculator](http://gridcalculator.dk/)
 
 ###Libraries & Frameworks
 * [Compass](http://compass-style.org/)
@@ -149,13 +145,15 @@ alias l8000='open http://localhost:8000'
 
 ##Design
 
+###Calculators
+* [Aspect Ratio Calculator](http://andrew.hedges.name/experiments/aspect_ratio/)
+
 ###Mock Tools
 * [Android px to dp Converter](http://labs.rampinteractive.co.uk/android_dp_px_calculator/)
 * [iPad GUI](http://www.teehanlax.com/tools/ipad/)
 * [iPhone GUI](http://www.teehanlax.com/tools/iphone/)
 * [iPhone Mockuuups](http://www.mockuuups.com/)
 * [iOS Cheat Sheet](http://ivomynttinen.com/blog/the-ios-design-cheat-sheet-volume-2/)
-
 
 ###Principles
 * [Codepen Design Patterns](http://codepen.io/patterns/?mkt_tok=3RkMMJWWfF9wsRonuavJZKXonjHpfsX66e8rWKa%2BlMI%2F0ER3fOvrPUfGjI4ATsFlI%2BSLDwEYGJlv6SgFTLHGMbdlwLgJWBj0TD7slJfbfYRPf6Ba2Jw1qw%3D%3D)
@@ -190,10 +188,12 @@ alias l8000='open http://localhost:8000'
 * [Haml](http://haml.info/)
 * [Jade](http://naltatis.github.io/jade-syntax-docs/)
 
+###Web Components
+* [WebComponents.org](http://webcomponents.org/)
+
 ###Tools
 * [Unicode Character Table](http://unicode-table.com/en/)
 * [Word 2 Clean HTML](http://word2cleanhtml.com/)
-
 
 [[ ⬆ Top ]](#toc)
 
@@ -211,7 +211,6 @@ alias l8000='open http://localhost:8000'
 ###Build Tools
 * [Gulp](http://gulpjs.com/)
 * [Bower](http://bower.io/)
-* [NPM](https://www.npmjs.org/)
 * [Yeoman](http://yeoman.io)
   * [AngularFire Generator](https://github.com/firebase/generator-angularfire)
   * Angular Generator Issues
@@ -221,15 +220,18 @@ alias l8000='open http://localhost:8000'
 ###DOM
 * [DOM API](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 
+###JSON
+* [JSON API](http://jsonapi.org/)
+* [JSON Generator](http://www.json-generator.com/)
+* [JSON Lint](http://www.jsonlint.com)
+
 ###Modernizr Hooks for oldIE
 * [ie7] - screw IE7
 * [ie8] - `no-backgroundsize`
 * [ie9] - `no-csstransforms3d`
 
-###JSON
-* [JSON API](http://jsonapi.org/)
-* [JSON Generator](http://www.json-generator.com/)
-* [JSON Lint](http://www.jsonlint.com)
+###Package Managers
+* [NPM](https://www.npmjs.org/)
 
 [[ ⬆ Top ]](#toc)
 
@@ -261,6 +263,85 @@ alias l8000='open http://localhost:8000'
 * [Layouts](http://guides.rubyonrails.org/layouts_and_rendering.html)
 
 [[ ⬆ Top ]](#toc)
+
+## Sass
+* [Compass Flexbox](http://compass-style.org/reference/compass/css3/flexbox/)
+* [Microsoft Flexbox](http://msdn.microsoft.com/en-us/library/ie/hh673531(v=vs.85).aspx)
+* [Ultimate Flexbox Cheatsheet](http://www.sketchingwithcss.com/samplechapter/cheatsheet.html)
+
+### Useful Sass Media Queries
+```
+@mixin media-range($from, $to) {
+  @media (min-width: $from) and (max-width: $to) {
+    @content;
+  }
+}
+@mixin media-min($width) {
+  @media (min-width: $width) {
+    @content;
+  }
+}
+@mixin media-max($width) {
+  @media (max-width: $width) {
+    @content;
+  }
+}
+```
+
+### Sass Mixins to Target specific Browsers
+```
+@mixin iphone-5 {
+  @media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (-webkit-min-device-pixel-ratio: 2) {
+    @content;
+  }
+}
+
+@mixin iphone-6 {
+  @media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) {
+    @content;
+  }
+}
+
+@mixin iphone-6-plus {
+  @media only screen and (min-device-width: 414px) and (max-device-width: 736px) and (-webkit-min-device-pixel-ratio: 3) {
+    @content;
+  }
+}
+
+@mixin iphone-all {
+  @media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (-webkit-min-device-pixel-ratio: 2) {
+    @content;
+  }
+
+  @media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) {
+    @content;
+  }
+
+  @media only screen and (min-device-width: 414px) and (max-device-width: 736px) and (-webkit-min-device-pixel-ratio: 3) {
+    @content;
+  }
+}
+
+@mixin ms-ie-10-11-only {
+  @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+    @content;
+  }
+}
+
+@mixin ms-edge-only {
+  @supports (-ms-accelerator: true) {
+    @content;
+  }
+}
+
+@mixin firefox-only {
+  @-moz-document url-prefix() {
+    @content;
+  }
+}
+```
+[[ ⬆ Top ]](#toc)
+
 
 ##Source Control
 * [Deploying a subfolder to GitHub Pages](https://gist.github.com/cobyism/4730490)
@@ -316,12 +397,24 @@ alias l8000='open http://localhost:8000'
 * [AngularJS For Absolute Beginners](http://medialoot.com/blog/angularjs-for-absolute-beginners/)
 * [Shaping Up With Angular](https://www.codeschool.com/courses/shaping-up-with-angular-js)
 
-###LearningSites
+###ES6 Tutorials
+* [ES6.io](https:/es6.io)
+
+###Flexbox Tutorials
+* [Flexbox Froggy](http://flexboxfroggy.com/)
+* [Flexbox.io](http://flexbox.io/)
+
+###React Tutorials
+* [React For Beginners](https://reactforbeginners.com/)
+* [Learn Redux](https://learnredux.com/)
+
+###General Learning Sites
 
 ####Free
 * [Channel9 Javascript](http://channel9.msdn.com/Series/Javascript-Fundamentals-Development-for-Absolute-Beginners?page=2)
 * [Codecademy](http://www.codecademy.com/)
 * [Codrops](http://tympanus.net/codrops/)
+* [Coursera](https://www.coursera.org/)
 * [How To Learn Javascript Properly](http://javascriptissexy.com/how-to-learn-javascript-properly/)
 * [Learn Code the Hard Way](http://learncodethehardway.org/)
 * [MDN Javascript](https://developer.mozilla.org/en-US/learn/javascript)
@@ -334,80 +427,7 @@ alias l8000='open http://localhost:8000'
 * [Pluralsight](http://www.pluralsight.com/)
 * [Team Treehouse](http://www.teamtreehouse.com)
 * [Udacity](http://www.udacity.com)
+* 
 
-[[ ⬆ Top ]](#toc)
 
-## Useful Sass Mixins
-
-### Media Queries
-```
-@mixin media-range($from, $to) {
-  @media (min-width: $from) and (max-width: $to) {
-    @content;
-  }
-}
-@mixin media-min($width) {
-  @media (min-width: $width) {
-    @content;
-  }
-}
-@mixin media-max($width) {
-  @media (max-width: $width) {
-    @content;
-  }
-}
-```
-
-### Target Specific Browsers
-```
-@mixin iphone-5 {
-  @media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (-webkit-min-device-pixel-ratio: 2) {
-    @content;
-  }
-}
-
-@mixin iphone-6 {
-  @media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) {
-    @content;
-  }
-}
-
-@mixin iphone-6-plus {
-  @media only screen and (min-device-width: 414px) and (max-device-width: 736px) and (-webkit-min-device-pixel-ratio: 3) {
-    @content;
-  }
-}
-
-@mixin iphone-all {
-  @media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (-webkit-min-device-pixel-ratio: 2) {
-    @content;
-  }
-
-  @media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) {
-    @content;
-  }
-
-  @media only screen and (min-device-width: 414px) and (max-device-width: 736px) and (-webkit-min-device-pixel-ratio: 3) {
-    @content;
-  }
-}
-
-@mixin ms-ie-10-11-only {
-  @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
-    @content;
-  }
-}
-
-@mixin ms-edge-only {
-  @supports (-ms-accelerator: true) {
-    @content;
-  }
-}
-
-@mixin firefox-only {
-  @-moz-document url-prefix() {
-    @content;
-  }
-}
-```
 [[ ⬆ Top ]](#toc)
