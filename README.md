@@ -128,7 +128,7 @@ alias l8000='open http://localhost:8000'
 ###Libraries & Frameworks
 * [Bootsrap](http://getbootstrap.com/)
 * [Bourbon](http://bourbon.io/)
-  * [Neat]((http://neat.bourbon.io/)
+  * [Neat](http://neat.bourbon.io/)
 * [Compass](http://compass-style.org/)
 * [Foundation](http://foundation.zurb.com/)
 * [Ionic](http://ionicframework.com/docs/components/)
