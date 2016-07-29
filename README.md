@@ -18,6 +18,7 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 * [Source Control](#source-control)
 * [Terminal](#terminal-resources)
 * [Tutorial Sites](#tutorial-sites)
+* [Useful Mixins](#useful-mixins)
 
 ##Architecture & Best Practices
 * [BEM](http://bem.github.io/bem-method/html/all.en.html)
@@ -337,3 +338,77 @@ alias l8000='open http://localhost:8000'
 * [Udacity](http://www.udacity.com)
 
 [[ ⬆ Top ]](#toc)
+
+## Useful Sass Mixins
+
+### Media Queries
+```
+@mixin media-range($from, $to) {
+  @media (min-width: $from) and (max-width: $to) {
+    @content;
+  }
+}
+@mixin media-min($width) {
+  @media (min-width: $width) {
+    @content;
+  }
+}
+@mixin media-max($width) {
+  @media (max-width: $width) {
+    @content;
+  }
+}
+```
+
+### Target Specific Browsers
+```
+@mixin iphone-5 {
+  @media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (-webkit-min-device-pixel-ratio: 2) {
+    @content;
+  }
+}
+
+@mixin iphone-6 {
+  @media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) {
+    @content;
+  }
+}
+
+@mixin iphone-6-plus {
+  @media only screen and (min-device-width: 414px) and (max-device-width: 736px) and (-webkit-min-device-pixel-ratio: 3) {
+    @content;
+  }
+}
+
+@mixin iphone-all {
+  @media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (-webkit-min-device-pixel-ratio: 2) {
+    @content;
+  }
+
+  @media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) {
+    @content;
+  }
+
+  @media only screen and (min-device-width: 414px) and (max-device-width: 736px) and (-webkit-min-device-pixel-ratio: 3) {
+    @content;
+  }
+}
+
+@mixin ms-ie-10-11-only {
+  @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+    @content;
+  }
+}
+
+@mixin ms-edge-only {
+  @supports (-ms-accelerator: true) {
+    @content;
+  }
+}
+
+@mixin firefox-only {
+  @-moz-document url-prefix() {
+    @content;
+  }
+}
+```
