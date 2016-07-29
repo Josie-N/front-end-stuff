@@ -126,14 +126,21 @@ alias l8000='open http://localhost:8000'
 * [Clippy](http://bennettfeely.com/clippy/)
 
 ###Libraries & Frameworks
+* [Bootsrap](http://getbootstrap.com/)
+* [Bourbon](http://bourbon.io/)
+  * [Neat]((http://neat.bourbon.io/)
 * [Compass](http://compass-style.org/)
+* [Foundation](http://foundation.zurb.com/)
 * [Ionic](http://ionicframework.com/docs/components/)
   * [Building Mobile Apps with Ionic Framework - (tutorial)](http://beta.pluralsight.com/courses/building-mobile-apps-ionic-framework-angularjs)
   * [Ionic Formulas - (tutorial)](http://learn.ionicframework.com/formulas/)
   * [Ionic Icons - Animated](http://ionicons.com/animation.html)
   * [Ionic Icons - Standard](http://ionicons.com/)
   * [NPM Package](https://www.npmjs.org/package/meanio)
+* [MaterializeCSS](http://materializecss.com/)
 * [Mobile AngularUI](http://mobileangularui.com/)
+* [Pure](http://purecss.io/)
+* [Skeleton](http://getskeleton.com/)
 
 ###Preprocessors
 * [Sass](http://sass-lang.com/)
