@@ -7,7 +7,7 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 ##TOC
 * [Architecture & Best Practices](#architecture--best-practices)
 * [Bash](#bash)
-* [Code Editors](#editors)
+* [Code Editors](#code-editors)
 * [CSS](#css)
 * [Design](#design)
 * [DOM](#dom-document-object-model)
