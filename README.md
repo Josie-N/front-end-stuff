@@ -10,6 +10,7 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 * [Code Editors](#editors)
 * [CSS](#css)
 * [Design](#design)
+* [DOM](#dom)
 * [HTML](#html)
 * [Javascript](#javascript)
 * [Media](#media)
@@ -25,7 +26,7 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 * [BEM](http://bem.github.io/bem-method/html/all.en.html)
 * [Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
 
-[[ ⬆ Top ]](#toc)
+[[ Top ]](#toc)
 
 ##Bash
 
@@ -98,13 +99,13 @@ alias l8000='open http://localhost:8000'
 * [Modern.ie](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)
 * [Virtual Box](https://www.virtualbox.org/wiki/Downloads)
 
-[[ ⬆ Top ]](#toc)
+[[ Top ]](#toc)
 
 ##Code Editors
 * [Atom](http://www.atom.io)
 * [Sublime Text](http://www.sublimetext.com)
 
-[[ ⬆ Top ]](#toc)
+[[ Top ]](#toc)
 
 ##CSS
 
@@ -125,18 +126,17 @@ alias l8000='open http://localhost:8000'
 * [Clip Path Generator](http://cssplant.com/clip-path-generator)
 * [Clippy](http://bennettfeely.com/clippy/)
 
+###Grids
+* [Bourbon Neat](http://neat.bourbon.io/)
+* [Flexbox Grid](http://flexboxgrid.com/)
+* [Susy Grid (Sass)](http://susy.oddbird.net/)
+
 ###Libraries & Frameworks
 * [Bootsrap](http://getbootstrap.com/)
 * [Bourbon](http://bourbon.io/)
-  * [Neat](http://neat.bourbon.io/)
 * [Compass](http://compass-style.org/)
 * [Foundation](http://foundation.zurb.com/)
 * [Ionic](http://ionicframework.com/docs/components/)
-  * [Building Mobile Apps with Ionic Framework - (tutorial)](http://beta.pluralsight.com/courses/building-mobile-apps-ionic-framework-angularjs)
-  * [Ionic Formulas - (tutorial)](http://learn.ionicframework.com/formulas/)
-  * [Ionic Icons - Animated](http://ionicons.com/animation.html)
-  * [Ionic Icons - Standard](http://ionicons.com/)
-  * [NPM Package](https://www.npmjs.org/package/meanio)
 * [MaterializeCSS](http://materializecss.com/)
 * [Mobile AngularUI](http://mobileangularui.com/)
 * [Pure](http://purecss.io/)
@@ -144,11 +144,11 @@ alias l8000='open http://localhost:8000'
 
 ###Preprocessors
 * [Sass](http://sass-lang.com/)
-  * [Susy Grid](http://susy.oddbird.net/)
-    * [Susy 2.0 Tutorials](https://www.youtube.com/playlist?list=PLLnpHn493BHF-TxB5PqpKfJ_XjTwP5utB)
-  * [Breakpoint](http://breakpoint-sass.com/)
 
-[[ ⬆ Top ]](#toc)
+###Reference
+* [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+[[ Top ]](#toc)
 
 ##Design
 
@@ -179,7 +179,14 @@ alias l8000='open http://localhost:8000'
 ###Vertical Rhythm
 * [Basehold.it](http://basehold.it)
 
-[[ ⬆ Top ]](#toc)
+[[ Top ]](#toc)
+
+##DOM (Document Object Model)
+
+###Reference
+* [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+
+[[ Top ]](#toc)
 
 ##HTML
 
@@ -202,7 +209,7 @@ alias l8000='open http://localhost:8000'
 * [Unicode Character Table](http://unicode-table.com/en/)
 * [Word 2 Clean HTML](http://word2cleanhtml.com/)
 
-[[ ⬆ Top ]](#toc)
+[[ Top ]](#toc)
 
 ##Javascript
 
@@ -224,8 +231,8 @@ alias l8000='open http://localhost:8000'
     * [Github Generator Angular](https://github.com/yeoman/generator-angular/issues/841)
     * [Stack Overflow](http://stackoverflow.com/questions/25709324/grunt-wiredepapp-no-such-file-or-directory-bower-json)
 
-###DOM
-* [DOM API](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+###ES6 Compilers
+* [Babel](https://babeljs.io/)
 
 ###JSON
 * [JSON API](http://jsonapi.org/)
@@ -233,20 +240,24 @@ alias l8000='open http://localhost:8000'
 * [JSON Lint](http://www.jsonlint.com)
 
 ###Modernizr Hooks for oldIE
-* [ie7] - screw IE7
+
 * [ie8] - `no-backgroundsize`
 * [ie9] - `no-csstransforms3d`
 
 ###Package Managers
 * [NPM](https://www.npmjs.org/)
 
-[[ ⬆ Top ]](#toc)
+###Reference
+* [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [You Might Not Need JQuery](http://youmightnotneedjquery.com/)
+
+[[ Top ]](#toc)
 
 ##Media
 * [Youtube Player Demo](https://developers.google.com/youtube/youtube_player_demo)
 * [WebVTT Validation](https://quuz.org/webvtt/)
 
-[[ ⬆ Top ]](#toc)
+[[ Top ]](#toc)
 
 ##Performance
 * [Addy Osmani Critical CSS](https://github.com/addyosmani/critical)
@@ -254,26 +265,30 @@ alias l8000='open http://localhost:8000'
 * [Chrome Dev Tools Network Monitor](https://developer.chrome.com/devtools/docs/network)
 * [kaaes/timing tool](http://kaaes.github.io/timing/)
 * [Navigation Timing API](https://dvcs.w3.org/hg/webperf/raw-file/tip/specs/NavigationTiming/Overview.html)
-* [Page Speed](https://developers.google.com/speed/pagespeed/)
+* [Page Speed Insights](https://developers.google.com/speed/pagespeed/)
 * [UnCSS](https://github.com/ben-eb/gulp-uncss)
 * [Web Page Test](http://www.webpagetest.org/)
 
-[[ ⬆ Top ]](#toc)
+[[ Top ]](#toc)
 
 ##Podcasts
 * [Adventures in Angular](http://devchat.tv/adventures-in-angular/)
+* [Developer Tea](http://spec.fm/podcasts/developer-tea)
+* [Javascript Jabber](https://devchat.tv/js-jabber)
 * [Shop Talk Show](http://shoptalkshow.com/)
+* [The Web Ahead](http://thewebahead.net/)
 
-[[ ⬆ Top ]](#toc)
+[[ Top ]](#toc)
 
 ##Ruby on Rails
 * [Layouts](http://guides.rubyonrails.org/layouts_and_rendering.html)
 
-[[ ⬆ Top ]](#toc)
+[[ Top ]](#toc)
 
 ## Sass
 * [Compass Flexbox](http://compass-style.org/reference/compass/css3/flexbox/)
 * [Microsoft Flexbox](http://msdn.microsoft.com/en-us/library/ie/hh673531(v=vs.85).aspx)
+* [Sass-Lang](http://sass-lang.com/)
 * [Ultimate Flexbox Cheatsheet](http://www.sketchingwithcss.com/samplechapter/cheatsheet.html)
 
 ### Useful Sass Media Queries
@@ -347,7 +362,7 @@ alias l8000='open http://localhost:8000'
   }
 }
 ```
-[[ ⬆ Top ]](#toc)
+[[ Top ]](#toc)
 
 
 ##Source Control
@@ -389,12 +404,12 @@ alias l8000='open http://localhost:8000'
   log = true
 ```
 
-[[ ⬆ Top ]](#toc)
+[[ Top ]](#toc)
 
 ##Terminal
 * [Console.log() Updates](https://developer.chrome.com/devtools/docs/tips-and-tricks?mkt_tok=3RkMMJWWfF9wsRonuavJZKXonjHpfsX66e8rWKa%2BlMI%2F0ER3fOvrPUfGjI4ATsFlI%2BSLDwEYGJlv6SgFTLHGMbdlwLgJWBj0TD7slJfbfYRPf6Ba2Jw1qw%3D%3D)
 
-[[ ⬆ Top ]](#toc)
+[[ Top ]](#toc)
 
 ##Tutorials
 
@@ -436,5 +451,4 @@ alias l8000='open http://localhost:8000'
 * [Udacity](http://www.udacity.com)
 * 
 
-
-[[ ⬆ Top ]](#toc)
+[[ Top ]](#toc)
