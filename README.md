@@ -18,7 +18,7 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 * [Ruby on Rails](#ruby-on-rails)
 * [Sass](#sass)
 * [Source Control](#source-control)
-* [Terminal](#terminal-resources)
+* [Terminal](#terminal)
 * [Tutorial Sites](#tutorial-sites)
 
 
