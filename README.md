@@ -26,7 +26,7 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 * [BEM](http://bem.github.io/bem-method/html/all.en.html)
 * [Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
 
-[[ Top ]](#toc)
+[[ ▲ Top ]](#toc)
 
 ##Bash
 
