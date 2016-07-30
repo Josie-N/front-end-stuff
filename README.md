@@ -10,7 +10,7 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 * [Code Editors](#editors)
 * [CSS](#css)
 * [Design](#design)
-* [DOM](#dom)
+* [DOM](#dom-document-object-model)
 * [HTML](#html)
 * [Javascript](#javascript)
 * [Media](#media)
