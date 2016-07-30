@@ -26,7 +26,7 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 * [BEM](http://bem.github.io/bem-method/html/all.en.html)
 * [Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
 
-[[ ▲ Top ]](#toc)
+[[ ▲ ]](#toc)
 
 ##Bash
 
@@ -99,13 +99,13 @@ alias l8000='open http://localhost:8000'
 * [Modern.ie](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)
 * [Virtual Box](https://www.virtualbox.org/wiki/Downloads)
 
-[[ Top ]](#toc)
+[[ ▲ ]](#toc)
 
 ##Code Editors
 * [Atom](http://www.atom.io)
 * [Sublime Text](http://www.sublimetext.com)
 
-[[ Top ]](#toc)
+[[ ▲ ]](#toc)
 
 ##CSS
 
@@ -148,7 +148,7 @@ alias l8000='open http://localhost:8000'
 ###Reference
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-[[ Top ]](#toc)
+[[ ▲ ]](#toc)
 
 ##Design
 
@@ -179,14 +179,14 @@ alias l8000='open http://localhost:8000'
 ###Vertical Rhythm
 * [Basehold.it](http://basehold.it)
 
-[[ Top ]](#toc)
+[[ ▲ ]](#toc)
 
 ##DOM (Document Object Model)
 
 ###Reference
 * [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 
-[[ Top ]](#toc)
+[[ ▲ ]](#toc)
 
 ##HTML
 
@@ -209,7 +209,7 @@ alias l8000='open http://localhost:8000'
 * [Unicode Character Table](http://unicode-table.com/en/)
 * [Word 2 Clean HTML](http://word2cleanhtml.com/)
 
-[[ Top ]](#toc)
+[[ ▲ ]](#toc)
 
 ##Javascript
 
@@ -251,13 +251,13 @@ alias l8000='open http://localhost:8000'
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [You Might Not Need JQuery](http://youmightnotneedjquery.com/)
 
-[[ Top ]](#toc)
+[[ ▲ ]](#toc)
 
 ##Media
 * [Youtube Player Demo](https://developers.google.com/youtube/youtube_player_demo)
 * [WebVTT Validation](https://quuz.org/webvtt/)
 
-[[ Top ]](#toc)
+[[ ▲ ]](#toc)
 
 ##Performance
 * [Addy Osmani Critical CSS](https://github.com/addyosmani/critical)
@@ -278,7 +278,7 @@ alias l8000='open http://localhost:8000'
 * [Shop Talk Show](http://shoptalkshow.com/)
 * [The Web Ahead](http://thewebahead.net/)
 
-[[ Top ]](#toc)
+[[ ▲ ]](#toc)
 
 ##Ruby on Rails
 * [Layouts](http://guides.rubyonrails.org/layouts_and_rendering.html)
@@ -295,8 +295,7 @@ alias l8000='open http://localhost:8000'
 * Open Internet Explorer or MS Edge, and type `http://localhost:3000`
   * If that doesn't work, type `http://10.0.2.2:3000`
 
-
-[[ Top ]](#toc)
+[[ ▲ ]](#toc)
 
 ## Sass
 * [Compass Flexbox](http://compass-style.org/reference/compass/css3/flexbox/)
@@ -375,7 +374,7 @@ alias l8000='open http://localhost:8000'
   }
 }
 ```
-[[ Top ]](#toc)
+[[ ▲ ]](#toc)
 
 
 ##Source Control
@@ -417,12 +416,12 @@ alias l8000='open http://localhost:8000'
   log = true
 ```
 
-[[ Top ]](#toc)
+[[ ▲ ]](#toc)
 
 ##Terminal
 * [Console.log() Updates](https://developer.chrome.com/devtools/docs/tips-and-tricks?mkt_tok=3RkMMJWWfF9wsRonuavJZKXonjHpfsX66e8rWKa%2BlMI%2F0ER3fOvrPUfGjI4ATsFlI%2BSLDwEYGJlv6SgFTLHGMbdlwLgJWBj0TD7slJfbfYRPf6Ba2Jw1qw%3D%3D)
 
-[[ Top ]](#toc)
+[[ ▲ ]](#toc)
 
 ##Tutorials
 
@@ -449,7 +448,7 @@ alias l8000='open http://localhost:8000'
 * [Channel9 Javascript](http://channel9.msdn.com/Series/Javascript-Fundamentals-Development-for-Absolute-Beginners?page=2)
 * [Codecademy](http://www.codecademy.com/)
 * [Codrops](http://tympanus.net/codrops/)
-* [Coursera](https://www.coursera.org/)
+* [CSS Tricks](http://www.css-tricks.com)
 * [How To Learn Javascript Properly](http://javascriptissexy.com/how-to-learn-javascript-properly/)
 * [Learn Code the Hard Way](http://learncodethehardway.org/)
 * [MDN Javascript](https://developer.mozilla.org/en-US/learn/javascript)
@@ -457,11 +456,11 @@ alias l8000='open http://localhost:8000'
 
 ####Paid
 * [Code School](http://www.codeschool.com)
+* [Coursera](https://www.coursera.org/)
 * [Digital Tutors](http://www.digitaltutors.com/)
 * [Lynda.com](http://www.lynda.com)
 * [Pluralsight](http://www.pluralsight.com/)
 * [Team Treehouse](http://www.teamtreehouse.com)
 * [Udacity](http://www.udacity.com)
-* 
 
-[[ Top ]](#toc)
+[[ ▲ ]](#toc)
