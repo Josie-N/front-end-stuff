@@ -19,7 +19,7 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 * [Sass](#sass)
 * [Source Control](#source-control)
 * [Terminal](#terminal)
-* [Tutorial Sites](#tutorial-sites)
+* [Tutorial Sites](#tutorials)
 
 
 ##Architecture & Best Practices
