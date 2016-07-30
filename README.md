@@ -283,6 +283,18 @@ alias l8000='open http://localhost:8000'
 ##Ruby on Rails
 * [Layouts](http://guides.rubyonrails.org/layouts_and_rendering.html)
 
+###Running aliased Local Rails project on VirtualBox running Windows
+
+* Run the local rails project 'rails server -p 3000 -b 0.0.0.0`
+* Open VirtualBox (Windows already installed (see *Testing* Tools above)
+* Setup an alias in the Windows `.hosts` file. 
+  * This file can be found here: `Windows -> System32 -> drivers ->`
+  * Add this line to the file: `10.0.2.2  localhost`
+  * Save the `.hosts` file
+* Open Internet Explorer or MS Edge, and type `http://localhost:3000`
+  * If that doesn't work, type `http://10.0.2.2:3000`
+
+
 [[ Top ]](#toc)
 
 ## Sass
