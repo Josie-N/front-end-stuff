@@ -269,7 +269,7 @@ alias l8000='open http://localhost:8000'
 * [UnCSS](https://github.com/ben-eb/gulp-uncss)
 * [Web Page Test](http://www.webpagetest.org/)
 
-[[ Top ]](#toc)
+[[ ▲ ]](#toc)
 
 ##Podcasts
 * [Adventures in Angular](http://devchat.tv/adventures-in-angular/)
