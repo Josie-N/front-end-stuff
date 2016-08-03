@@ -248,6 +248,7 @@ alias l8000='open http://localhost:8000'
 * [NPM](https://www.npmjs.org/)
 
 ###Reference
+* [Free JS Books [TOTAL AWESOMENESS]](http://jsbooks.revolunet.com/)
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [You Might Not Need JQuery](http://youmightnotneedjquery.com/)
 
