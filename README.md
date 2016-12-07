@@ -445,12 +445,13 @@ alias l8000='open http://localhost:8000'
 * [How To Learn Javascript Properly](http://javascriptissexy.com/how-to-learn-javascript-properly/)
 * [Learn Code the Hard Way](http://learncodethehardway.org/)
 * [MDN Javascript](https://developer.mozilla.org/en-US/learn/javascript)
-* [Thinkster.io Angular Tutorials](https://thinkster.io)
 
 ####Paid
 * [Code School](http://www.codeschool.com)
 * [Coursera](https://www.coursera.org/)
 * [Digital Tutors](http://www.digitaltutors.com/)
+* [Front End Masters](http://www.frontendmasters.com/)
+* [Learn Enough Society](https://www.learnenough.com/)
 * [Lynda.com](http://www.lynda.com)
 * [Pluralsight](http://www.pluralsight.com/)
 * [Team Treehouse](http://www.teamtreehouse.com)
