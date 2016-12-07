@@ -12,6 +12,7 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 * [Design](#design)
 * [DOM](#dom-document-object-model)
 * [HTML](#html)
+* [Image Optimization](#image-optimization)
 * [Javascript](#javascript)
 * [Media](#media)
 * [Performance](#performance)
@@ -175,6 +176,10 @@ alias l8000='open http://localhost:8000'
 * [Paul Irish Bulletproof Font Face](http://www.paulirish.com/2009/bulletproof-font-face-implementation-syntax/)
 * [CSSLint Bulletproof Font Face](https://github.com/CSSLint/csslint/wiki/Bulletproof-font-face)
 * [Font2Web](http://www.font2web.com/)
+* [Font Style Matcher](https://meowni.ca/font-style-matcher/)
+* [Font Tools](https://github.com/fonttools/fonttools) - Font Subsetting with Python
+* [ttf2woff](https://github.com/fontello/ttf2woff)
+* [ttf2woff2](https://github.com/nfroidure/ttf2woff2)
 
 ###Vertical Rhythm
 * [Basehold.it](http://basehold.it)
@@ -211,16 +216,10 @@ alias l8000='open http://localhost:8000'
 
 [[ ▲ ]](#toc)
 
-##Javascript
+##Image Optimization
+* [Cloudinary](http://cloudinary.com/)
 
-###Angular
-* [AngularJS Hub](http://www.angularjshub.com/)
-* [Angular Material Design - (Based on Google Material Design)](https://github.com/angular/material)
-* [AngularJS Recipes](http://fdietz.github.io/recipes-with-angular-js/)
-* [Angular Seed Web Starter Kit](https://github.com/rafriki/angular-seed-web-starter-kit)
-* [AngularStrap](http://mgcrea.github.io/angular-strap/)
-* [Coming from JQuery Background](http://stackoverflow.com/questions/14994391/how-do-i-think-in-angularjs-if-i-have-a-jquery-background/15012542#15012542)
-* [Famo.us Angular Integration](http://famo.us/integrations/angular/)
+##Javascript
 
 ###Build Tools
 * [Gulp](http://gulpjs.com/)
@@ -273,7 +272,6 @@ alias l8000='open http://localhost:8000'
 [[ ▲ ]](#toc)
 
 ##Podcasts
-* [Adventures in Angular](http://devchat.tv/adventures-in-angular/)
 * [Developer Tea](http://spec.fm/podcasts/developer-tea)
 * [Javascript Jabber](https://devchat.tv/js-jabber)
 * [Shop Talk Show](http://shoptalkshow.com/)
@@ -425,12 +423,6 @@ alias l8000='open http://localhost:8000'
 [[ ▲ ]](#toc)
 
 ##Tutorials
-
-###Angular Tutorials
-* [A Better Way to Learn Angular](http://www.thinkster.io/angularjs/GtaQ0oMGIl/a-better-way-to-learn-angularjs)
-* [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](http://www.airpair.com/angularjs)
-* [AngularJS For Absolute Beginners](http://medialoot.com/blog/angularjs-for-absolute-beginners/)
-* [Shaping Up With Angular](https://www.codeschool.com/courses/shaping-up-with-angular-js)
 
 ###ES6 Tutorials
 * [ES6.io](https:/es6.io)
