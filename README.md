@@ -238,6 +238,9 @@ alias l8000='open http://localhost:8000'
 * [JSON Generator](http://www.json-generator.com/)
 * [JSON Lint](http://www.jsonlint.com)
 
+###Keyboard Events
+* [Keycodes.info](http://keycode.info/)
+
 ###Modernizr Hooks for oldIE
 
 * [ie8] - `no-backgroundsize`
