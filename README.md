@@ -19,6 +19,7 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 * [Ruby on Rails](#ruby-on-rails)
 * [Sass](#sass)
 * [Source Control](#source-control)
+* [Static Site Generators](#static-site-generators)
 * [Terminal](#terminal)
 * [Tutorial Sites](#tutorials)
 
@@ -417,6 +418,12 @@ alias l8000='open http://localhost:8000'
   tool = opendiff
   log = true
 ```
+
+[[ ▲ ]](#toc)
+
+##Static Site Generators
+* [Hugo](http://www.gohugo.io)
+* [Jekyll](https://jekyllrb.com/)
 
 [[ ▲ ]](#toc)
 
