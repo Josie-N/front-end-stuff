@@ -25,7 +25,7 @@ This is a quick reference of links and tools I refer to on a semi-regular basis.
 
 
 ##Architecture & Best Practices
-* [BEM](http://bem.github.io/bem-method/html/all.en.html)
+* [BEM](http://getbem.com/)
 * [Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
 
 [[ ▲ ]](#toc)
