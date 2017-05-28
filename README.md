@@ -173,6 +173,7 @@ alias l8000='open http://localhost:8000'
 * [iOS Human Interface Guidelines](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html#//apple_ref/doc/uid/TP40006556)
 
 ###Typography
+* [Collection of web safe CSS font stacks.](http://www.cssfontstack.com)
 * [CSS Tricks - HTML Glyphs](http://css-tricks.com/snippets/html/glyphs/)
 * [Paul Irish Bulletproof Font Face](http://www.paulirish.com/2009/bulletproof-font-face-implementation-syntax/)
 * [CSSLint Bulletproof Font Face](https://github.com/CSSLint/csslint/wiki/Bulletproof-font-face)
